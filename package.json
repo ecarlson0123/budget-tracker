@@ -21,7 +21,13 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
+    "jquery": "^3.6.0",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3"
   }
 }
